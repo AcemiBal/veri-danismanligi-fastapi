@@ -1,0 +1,11 @@
+
+fastapi
+uvicorn
+pandas
+matplotlib
+sqlalchemy
+python-multipart
+reportlab
+jinja2
+openpyxl
+requests
